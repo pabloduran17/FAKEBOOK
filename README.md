@@ -30,7 +30,7 @@ My first html project
         <p><strong>Age:</strong> 42+</p>
         <p><strong>Education:</strong> Ninja University degree</p>
         <p><strong>Hobby:</strong> becoming a developer</p>
-        <p><strong>FB friends:</strong> 2000</p>
-        <p><strong>FB enemies:</strong> 2000</p>
+        <p><strong>FB friends:</strong> 1</p>
+        <p><strong>FB enemies:</strong> 3000</p>
     </body>
 </html>
